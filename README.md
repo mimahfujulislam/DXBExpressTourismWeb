@@ -4,7 +4,7 @@ A modern, premium, and responsive travel agency landing page for **DXB Express T
 The website is designed with a luxury dark UI, glassmorphism cards, soft gradients, Arabic/English language support, and clickable contact options.
 
 ## Live Website
-https://mimahfujulislam.github.io/DXB-Express-Tourism-Web/
+https://mimahfujulislam.github.io/DXBExpressTourismWeb/
 
 ## Project Files
 
